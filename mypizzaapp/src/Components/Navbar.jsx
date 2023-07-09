@@ -9,9 +9,9 @@ const Navbar = () => {
         <img src="https://radiustheme.com/demo/wordpress/themes/panpie/wp-content/themes/panpie/assets/img/logo-dark.png" alt="" />
       
         <div className='routes'>
-           <div className='dropdown home'>
-           <li className='dropbtn'>HOME  <i class="fa fa-caret-down"></i> </li>
-           <div class="dropdown-content">
+           <div className='dropdown1 home'>
+           <li className='dropbtn1'>HOME  <i class="fa fa-caret-down"></i> </li>
+           <div class="dropdown-content1">
       <a href="#">Home 1</a>
       <a href="#">Home 2</a>
       <a href="#">Home 3</a>
@@ -21,9 +21,9 @@ const Navbar = () => {
     </div>
            </div>
 
-           <div className='dropdown menu'>
-           <li className='dropbtn'>MENU  <i class="fa fa-caret-down"></i> </li>
-           <div class="dropdown-content">
+           <div className='dropdown1 menu'>
+           <li className='dropbtn1'>MENU  <i class="fa fa-caret-down"></i> </li>
+           <div class="dropdown-content1">
       <a href="#">Food Menu 01</a>
       <a href="#">Food Menu 02</a>
       <a href="#">Food Menu 03</a>
@@ -33,9 +33,9 @@ const Navbar = () => {
     </div>
            </div>
           
-           <div className='dropdown pages'>
-           <li className='dropbtn'>PAGES  <i class="fa fa-caret-down"></i> </li>
-           <div class="dropdown-content">
+           <div className='dropdown1 pages'>
+           <li className='dropbtn1'>PAGES  <i class="fa fa-caret-down"></i> </li>
+           <div class="dropdown-content1">
            <a href="#">Pages</a>
       <a href="#">Gallery Page</a>
       <a href="#">Team Page</a>
@@ -43,18 +43,18 @@ const Navbar = () => {
     </div>
            </div>
           
-           <div className='dropdown blog'>
-           <li className='dropbtn'>BLOG  <i class="fa fa-caret-down"></i> </li>
-           <div class="dropdown-content">
+           <div className='dropdown1 blog'>
+           <li className='dropbtn1'>BLOG  <i class="fa fa-caret-down"></i> </li>
+           <div class="dropdown-content1">
       <a href="#">Blog 1</a>
       <a href="#">Blog 2</a>
       <a href="#">Single Blog</a>
     </div>
            </div>
           
-           <div className='dropdown shop'>
-           <li className='dropbtn'>SHOP  <i class="fa fa-caret-down"></i> </li>
-           <div class="dropdown-content">
+           <div className='dropdown1 shop'>
+           <li className='dropbtn1'>SHOP  <i class="fa fa-caret-down"></i> </li>
+           <div class="dropdown-content1">
       <a href="#">Shop</a>
       <a href="#">Cart</a>
       <a href="#">Checkout</a>

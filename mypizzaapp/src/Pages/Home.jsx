@@ -41,22 +41,7 @@
    return (
    <>
 
-   <div className="firstContainer">
- <div className="firstFirstContainer">
- <p>BIG ITALIAN</p>
- <p>CHEESE PIZZA</p>
- <p>Additional charge for premium topping are fixed</p>
-
-                        
-                        <a class="btn1" href="#">Order Now</a>
-                            </div>
-
-  <div className="secondFirstContainer">
-  {/* <img src="https://radiustheme.com/demo/wordpress/themes/panpie/wp-content/uploads/2021/03/slide02-1.png" alt="pic" />
-  */}
-  <img src={image} alt="" />
-  </div>
-   </div>
+  
 
 
      <div className='secondContainer'>
